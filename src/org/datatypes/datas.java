@@ -21,6 +21,9 @@ public class datas {
 		byte ghj = 15;
 		System.out.println(ghj);
 		
+		short pin = 1234;
+		System.out.println(pin);
+		
 	}
 
 }
